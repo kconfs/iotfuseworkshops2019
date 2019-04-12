@@ -1,3 +1,5 @@
+Note - this readme file is under construction.
+
 # About the IoTFuse 2019 Workshops
 
 IoT Fuse is (or was, depending upon when you read this) a Conference Series which takes palce April 23rd-25th, 2019 in Minneapolis, Minnesota.
