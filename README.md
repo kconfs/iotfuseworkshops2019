@@ -37,7 +37,9 @@ We have recieved requests to post information in chronological order according t
 
 ### Mainflux
 
-[Mainflux Open ](https://github.com/mainflux/mainflux)
+[Link to MainFlux Workshop from April 24, 2019 10:15 am - 12:15 pm](https://iotfuse.com/sessions/mainflux-workshop/)
+
+[Mainflux Open Source Code](https://github.com/mainflux/mainflux)
 
 Mainflux is modern, scalable, secure open source and patent-free IoT cloud platform written in Go.
 
