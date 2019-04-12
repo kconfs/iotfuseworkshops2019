@@ -37,7 +37,7 @@ We have recieved requests to post information in chronological order according t
 
 ### Devops & Distributed Systems
 
-### Mainflux
+#### Mainflux
 
 [Link to MainFlux Workshop from April 24, 2019 10:15 am - 12:15 pm](https://iotfuse.com/sessions/mainflux-workshop/)
 
@@ -45,6 +45,46 @@ We have recieved requests to post information in chronological order according t
 
 Mainflux is modern, scalable, secure open source and patent-free IoT cloud platform written in Go.
 
+### Networking
+
+#### MCCI - The Things Network
+
+https://github.com/mcci-catena/
+
+### Machine Learning & Data
+
+#### 75F - Insights from Smart Buildings
+
+https://github.com/MaDooSan/azureml-iotfuse2019 
+
+#### DonkeyCar
+
+https://github.com/dmccreary/donkey-car-notebook
+
+We will make sure the README file has links to our other repos.
+
+### Cloud IoT
+
+#### Samsung SmartThings
+
+https://github.com/SmartThingsCommunity/st-schema-connectors 
+https://github.com/SmartThingsCommunity/SmartThingsPublic
+
+#### Microsoft
+
+For the IoT Central workshop, we’ll be using the IoT Central link from the IoT Dev Kit repo:
+
+https://microsoft.github.io/azure-iot-developer-kit/docs/projects/
+
+For the IoT Edge workshop, we’ll be using Ranga Vadlamudi’s repo (speaker at last year’s event):
+
+https://github.com/rangv/azureiotedgelab
+
+
 ## Open Source Code Not In The Workshops But At Other Events
+
+### Devops & Distributed Systems
+
+#### OpenNMS
 
 [OpenNMS MQTT Plugin](https://github.com/gallenc/opennms-mqtt-plugin)
