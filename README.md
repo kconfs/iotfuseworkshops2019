@@ -27,7 +27,7 @@ This list may not be complete, so please message us if you find anything missing
 
 Overall, our objective is to further the state of Internet of Things development worldwide.  Our goal is not only to provide useful information to the attendees of the conference, but to curate information for Internet of Things Developers regardless of where they come from.
 
-## The Open Source Repos Themselves
+# Links to the Code
 
 These repos will be posted below in order according to how they roughly fit into the technology stack.  To see the full schedule and make inquiries for further code, see the above link to the workshops schedules.
 
