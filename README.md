@@ -45,6 +45,20 @@ We have recieved requests to post information in chronological order according t
 
 Mainflux is modern, scalable, secure open source and patent-free IoT cloud platform written in Go.
 
+### Gateways and Data Privacy
+
+#### Mozilla
+
+Mozilla IoT  https://github.com/mozilla-iot
+
+MicroBlocks: virtual machine source https://bitbucket.org/john_maloney/smallvm
+
+PlatformIO: https://github.com/platformio
+
+IoT-Bus examples: https://github.com/iot-bus/iot-bus-mozilla-iot-examples-platformio
+
+Additional workshop examples (more coming soon): https://github.com/kgiori/
+
 ### Networking
 
 #### MCCI - The Things Network
