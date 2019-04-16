@@ -96,6 +96,12 @@ For the IoT Edge workshop, we’ll be using Ranga Vadlamudi’s repo (speaker at
 
 https://github.com/rangv/azureiotedgelab
 
+#### Digi-Key
+
+Open repos for the "Digi-Key IoT Studio Using the Microchip AVR-IoT WG" workshop
+
+https://github.com/Digi-Key/DK-IoT-Studio
+
 
 ## Open Source Code Not In The Workshops But At Other Events
 
