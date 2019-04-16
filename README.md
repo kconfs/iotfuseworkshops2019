@@ -43,6 +43,8 @@ We have recieved requests to post information in chronological order according t
 
 [Mainflux Open Source Code](https://github.com/mainflux/mainflux)
 
+[Code and Documents from the Mainflux Workshop](https://github.com/janko-isidorovic/iotfuse2019)
+
 Mainflux is modern, scalable, secure open source and patent-free IoT cloud platform written in Go.
 
 ### Gateways and Data Privacy
